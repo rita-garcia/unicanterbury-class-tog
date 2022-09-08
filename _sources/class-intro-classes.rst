@@ -118,11 +118,11 @@ What to do next
         var v = Math.floor(Math.random() * 9) + 1;
         if (v % 2 == 0)
         {
-              a.href = "class-pwd.html"
+              a.href = "class-toggle.html"
         }
         else
         {
-               a.href = "class-pnd.html"
+               a.href = "class-write.html"
         }
 
         };

@@ -14,7 +14,7 @@ the code area for compiler errors and/or unit test results.
 See the video below for an example.
 
 .. youtube:: piPz0kh8gMk
-    :divid: iwgex-ps-code
+    :divid: iwgex-ps-code-itcse
     :optional:
     :width: 650
     :height: 415
@@ -22,7 +22,7 @@ See the video below for an example.
 
 Try to finish writing the code for the following problem.
 
-.. activecode:: intro-sample-write-code-ps
+.. activecode:: intro-sample-write-code-ps-itcse
     :practice: T
     :autograde: unittest
 
@@ -59,7 +59,7 @@ click on the drop down near the top of problem.
 
 .. youtube:: zz4ATp31_vk
     :optional:
-    :divid: iwgex-ps-toggle
+    :divid: iwgex-ps-toggle-itcse
     :width: 650
     :height: 415
     :align: center
@@ -76,7 +76,7 @@ to check your solution.
 See the video below for an example.
 
 .. youtube:: Rf7oWHlo-e0
-    :divid: iwgex-ps-parsons1
+    :divid: iwgex-ps-parsons1-itcse
     :optional:
     :width: 650
     :height: 415
@@ -84,7 +84,7 @@ See the video below for an example.
 
 Try to solve the following mixed-up code problem.  This problem doesn't require any indentation.
 
-.. parsonsprob:: intro-simple-parsons-no-indent-ps
+.. parsonsprob:: intro-simple-parsons-no-indent-ps-itcse
    :numbered: left
    :adaptive:
    :practice: T
@@ -101,7 +101,7 @@ Try to solve the following mixed-up code problem.  This problem doesn't require 
 
 Try to solve the following mixed-up code problem. This problem requires indentation.
 
-.. parsonsprob:: intro-simple-parsons-indent-ps
+.. parsonsprob:: intro-simple-parsons-indent-ps-itcse
    :numbered: left
    :adaptive:
    :practice: T
@@ -118,7 +118,7 @@ Try to solve the following mixed-up code problem. This problem requires indentat
 
 Try to solve the following mixed-up code problem. This problem requires indentation and has extra blocks that are not needed in a correct solution.
 
-.. parsonsprob:: intro-simple-parsons-indent-with-dist-ps
+.. parsonsprob:: intro-simple-parsons-indent-with-dist-ps-itcse
    :numbered: left
    :adaptive:
    :practice: T
@@ -144,7 +144,7 @@ than three blocks left.
 See the video below for an example.
 
 .. youtube:: QejZ7u642IU
-    :divid: iwgex-ps-parsons2
+    :divid: iwgex-ps-parsons2-itcse
     :optional:
     :width: 650
     :height: 415
@@ -154,7 +154,7 @@ See the video below for an example.
 Feedback
 ==================================
 
-.. shortanswer:: iticse-ex1-intro-ps-sa
+.. shortanswer:: iticse-ex1-intro-ps-sa-itcse
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
