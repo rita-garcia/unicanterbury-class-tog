@@ -7,19 +7,19 @@ resources.
 Problems
 ==============
 
-.. selectquestion:: class-post-1-Movie-sq
+.. selectquestion:: class-post-1-Movie-sq-itcse
    :fromid: Classes_Basic_Movie_fix_v3_ac
    :points: 10
 
-.. selectquestion:: class-post-2-Horse-sq
+.. selectquestion:: class-post-2-Horse-sq-itcse
    :fromid: Classes_Basic_Horse_v2_ac
    :points: 10
 
-.. selectquestion:: class-post-3-GasTank-sq
+.. selectquestion:: class-post-3-GasTank-sq-itcse
    :fromid: Classes_Basic_GasTank_ac
    :points: 10
 
-.. selectquestion:: class-post-4-Dice-sq
+.. selectquestion:: class-post-4-Dice-sq-itcse
    :fromid: Classes_Basic_Dice_fix_v2_ac
    :points: 10
 
@@ -27,7 +27,7 @@ Problems
 Feedback
 ==================================
 
-.. shortanswer:: class-post-sa
+.. shortanswer:: class-post-sa-itcse
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 

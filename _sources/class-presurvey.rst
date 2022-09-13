@@ -1,11 +1,11 @@
 Pre Survey
 -----------------------------------------------------
 
-Please answer the following questions.
+Think about **yourself and your learning** when answering the following questions.
 
 ==============
 
-.. poll:: class-CS-self-efficacy-1
+.. poll:: CS-self-efficacy-1-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -15,7 +15,7 @@ Please answer the following questions.
 
     Generally I have felt secure about attempting computer programming problems.
 
-.. poll:: class-CS-self-efficacy-2
+.. poll:: CS-self-efficacy-2-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -25,7 +25,7 @@ Please answer the following questions.
 
     I am sure I could do advanced work in computer science.
 
-.. poll:: class-CS-self-efficacy-3
+.. poll:: CS-self-efficacy-3-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -35,7 +35,7 @@ Please answer the following questions.
 
     I am sure that I can learn programming.
 
-.. poll:: class-CS-self-efficacy-4
+.. poll:: CS-self-efficacy-4-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -45,7 +45,7 @@ Please answer the following questions.
 
     I think I could handle more difficult programming problems.
 
-.. poll:: class-CS-self-efficacy-5
+.. poll:: CS-self-efficacy-5-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -55,7 +55,7 @@ Please answer the following questions.
 
     I can get good grades in computer science.
 
-.. poll:: class-CS-self-efficacy-6
+.. poll:: CS-self-efficacy-6-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
     :option_3: Neither agree nor disagree
@@ -65,52 +65,12 @@ Please answer the following questions.
 
     I have a lot of self-confidence when it comes to programming.
 
+
 For the next questions please select the answer that best
 matches your familiarity and confidence
 about the specified concept(s).
 
-.. poll:: class-prog-se-loop-7
-    :option_1: I am unfamiliar with this concept
-    :option_2: I know what it means, but have not used it in a program
-    :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
-    :results: instructor
-
-    Loops/Iteration like <code>for n in nums:</code> and <code>for i in range(4):</code>
-
-.. poll:: class-prog-se-cond-8
-    :option_1: I am unfamiliar with this concept
-    :option_2: I know what it means, but have not used it in a program
-    :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
-    :results: instructor
-
-    Conditionals/Selection Statements like <code>if x < 3:</code>
-
-.. poll:: class-prog-se-func-9
-    :option_1: I am unfamiliar with this concept
-    :option_2: I know what it means, but have not used it in a program
-    :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
-    :results: instructor
-
-    Functions like <code>def get_odd(nums):</code>
-
-.. poll:: class-prog-se-list-dic-10
-    :option_1: I am unfamiliar with these concepts
-    :option_2: I know what they mean, but have not used them in a program
-    :option_3: I have used these concepts in a program, but am not confident about my ability to use them
-    :option_4: I am confident in my ability to use these concepts in simple programs
-    :option_5: I am confident in my ability to use these concepts in complex programs
-    :results: instructor
-
-    Lists like <code>a = ["red", "green"]</code> and dictionaries like <code>d = {"red": 2, "green": 3}</code>
-
-
-.. poll:: class-prog-se-class-obj-11
+.. poll:: class-obj-7-itcse
     :option_1: I am unfamiliar with these concepts
     :option_2: I know what they mean, but have not used them in a program
     :option_3: I have used these concepts in a program, but am not confident about my ability to use them
@@ -120,12 +80,37 @@ about the specified concept(s).
 
     Creating classes like <code>class Person:</code> and objects like <code>p = Person("Barb Ericson")</code>
 
-Feedback
-==================================
+.. poll:: class-obj-8-itcse
+    :option_1: I am unfamiliar with these concepts
+    :option_2: I know what they mean, but have not used them in a program
+    :option_3: I have used these concepts in a program, but am not confident about my ability to use them
+    :option_4: I am confident in my ability to use these concepts in simple programs
+    :option_5: I am confident in my ability to use these concepts in complex programs
+    :results: instructor
 
-.. shortanswer:: class-presurvey-sa
+    Methods like <code>__init__</code> and <code>__str__</code>
 
-   Please provide feedback here. Please share any comments, problems, or suggestions.
+.. poll:: class-obj-9-itcse
+    :option_1: I am unfamiliar with these concepts
+    :option_2: I know what they mean, but have not used them in a program
+    :option_3: I have used these concepts in a program, but am not confident about my ability to use them
+    :option_4: I am confident in my ability to use these concepts in simple programs
+    :option_5: I am confident in my ability to use these concepts in complex programs
+    :results: instructor
+
+    The use of  <code>self</code> in class
+
+.. poll:: class-obj-10-itcse
+    :option_1: I am unfamiliar with these concepts
+    :option_2: I know what they mean, but have not used them in a program
+    :option_3: I have used these concepts in a program, but am not confident about my ability to use them
+    :option_4: I am confident in my ability to use these concepts in simple programs
+    :option_5: I am confident in my ability to use these concepts in complex programs
+    :results: instructor
+
+    Defining instance variables like <code>self.color = color</code>
+
+Thanks for filling this survey and let us know you better!
 
 What to do next
 ============================
@@ -140,7 +125,7 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("class-intro")
-        a.href = "class-intro.html"
+        a.href = "class-intro-classes.html"
 
       };
 
