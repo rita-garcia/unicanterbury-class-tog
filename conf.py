@@ -236,9 +236,7 @@ html_show_sourcelink = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'PythonCoursewareProjectdoc'
 
-
-
 # key_words
 key_words = "Python, Python 3, experiment, test"
 shelf_section = "class-tog"
-course_description = "This interactive ebook was created by a ITiCSE working group led by Dr. Barbara Ericson to test Parsons with and wihtout distractors."
+course_description = "This interactive ebook was created by a ITiCSE working group led by Dr. Barbara Ericson to test code writing problems with Parsons problems as help versus code writing problems with no additional help."
