@@ -171,7 +171,7 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("intro-class")
-        a.href = "class-intro-classes.html"
+        a.href = "intro-classes.html"
 
       };
 
