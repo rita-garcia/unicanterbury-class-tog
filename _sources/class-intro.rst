@@ -162,7 +162,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to learn how to solve different types of problems in this ebook : <b><a id="intro-class"><font size="+2">Introduction to Classes</font></a></b></p>
+    <p>Click on the following link to learn about how to write classes and methods: <b><a id="intro-class"><font size="+2">Introduction to Classes</font></a></b></p>
 
 .. raw:: html
 
@@ -171,7 +171,7 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("intro-class")
-        a.href = "intro-classes.html"
+        a.href = "class-intro-classes.html"
 
       };
 
