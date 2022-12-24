@@ -24,6 +24,12 @@ Problems
    :fromid: Classes_Basic_FortuneTeller_ac
    :points: 10
 
+Feedback
+============================
+
+.. shortanswer:: class-tog-write-practice-sa
+
+    Please provide feedback about the practice problems here. Please share any comments, problems, or suggestions.
 
 What to do next
 ============================

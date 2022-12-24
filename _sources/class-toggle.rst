@@ -52,12 +52,19 @@ Problems
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-Feedback
-============================
+Feedback on the Helpfulness of Parsosn Problems
+==================================================
 
 .. shortanswer:: toggle-sa-cls-itcse
 
     Please explain the option you chose above in more detail. Please skip this question if you didn't use any Parsons problems.
+
+Feedback
+============================
+
+.. shortanswer:: class-tog-tog-practice-sa
+
+    Please provide feedback about the practice problems here. Please share any comments, problems, or suggestions.
 
 
 What to do next
