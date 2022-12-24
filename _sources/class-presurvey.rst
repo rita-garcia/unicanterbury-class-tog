@@ -112,6 +112,13 @@ about the specified concept(s).
 
 Thanks for filling this survey and let us know you better!
 
+Feedback
+==================================
+
+.. shortanswer:: class-tog-presurvey-sa
+
+   Please provide feedback here. Please share any comments, problems, or suggestions.
+
 What to do next
 ============================
 .. raw:: html
