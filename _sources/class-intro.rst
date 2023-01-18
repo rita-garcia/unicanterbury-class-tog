@@ -58,13 +58,15 @@ Write Code with Pop-Up Mixed-up Code
 You may also see a write code problem that allows you to pop-up the
 equivalent mixed-up code problem. You can use this problem to help you
 solve the write code problem.  To pop-up the mixed-up code problem
-click on the drop down near the top of problem.
+click on the drop down near the top of problem.  You will still need
+to write the code in the write code problem even if you solve the mixed-up
+code problem.
 
 .. youtube:: zz4ATp31_vk
     :optional:
     :divid: iwgex-ps-toggle-itcse
-    :width: 650
-    :height: 415
+    :width: 780
+    :height: 498
     :align: center
 
 Solving Mixed-up Code Problems
