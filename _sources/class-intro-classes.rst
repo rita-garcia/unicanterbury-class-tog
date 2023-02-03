@@ -120,22 +120,51 @@ What to do next
 
 .. raw:: html
 
-    <script type="text/javascript" >
+   <script type="text/javascript">
 
-      window.onload = function() {
+     function getCookie(cname) {
+        let name = cname + "=";
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let ca = decodedCookie.split(';');
+        for(let i = 0; i <ca.length; i++) {
+           let c = ca[i];
+           while (c.charAt(0) == ' ') {
+              c = c.substring(1);
+           }
+           if (c.indexOf(name) == 0) {
+              return c.substring(name.length, c.length);
+           }
+        }
+        return "";
+     }
+
+     function setCookie(cname, cvalue) {
+        document.cookie = cname + "=" + cvalue + ";";
+     }
+
+     window.onload = function() {
 
         a = document.getElementById("class-practice")
 
-        // randomly pick one of two relative urls
-        var v = Math.floor(Math.random() * 9) + 1;
-        if (v % 2 == 0)
-        {
-              a.href = "class-toggle.html"
-        }
-        else
-        {
-               a.href = "class-write.html"
+        // get prev set cookie
+        var EXP_COOKIE = 'class-tog-help-or-no'
+        var cond = getCookie(EXP_COOKIE);
+
+        // if no prev set cookie: generate random condition and set cookie
+        if (cond != 'wh' && cond != 'nh') {
+           var v = Math.floor(Math.random() * 2);
+           if (v < 1) {
+               cond = 'wh';
+           } else {
+               cond = 'nh';
+           }
+           setCookie(EXP_COOKIE, cond);
         }
 
-        };
-    </script>
+        if (cond == 'wh') {
+           a.href = "class-toggle.html"
+        } else if (cond == 'nh') {
+           a.href = "class-write.html"
+        }
+     };
+   </script>
