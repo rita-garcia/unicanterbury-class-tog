@@ -8,8 +8,8 @@ about five minutes without solving it.
 Problems
 ==============
 
-.. selectquestion:: song-ps-sq-tog-itcse
-   :fromid: Classes_Basic_Song_ac, Classes_Basic_Song_pp
+.. selectquestion:: song-ps-sq-tog-itcse-v2
+   :fromid: Classes_Basic_Song_ac_v2, Classes_Basic_Song_pp_v2
    :toggle: lock
    :points: 10
 
@@ -19,8 +19,8 @@ Problems
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-.. selectquestion:: cat-ps-sq-tog-itcse
-   :fromid: Classes_Basic_Cat_ac, Classes_Basic_Cat_pp
+.. selectquestion:: cat-ps-sq-tog-itcse-v2
+   :fromid: Classes_Basic_Cat_ac_v2, Classes_Basic_Cat_pp_v2
    :toggle: lock
    :points: 10
 
@@ -30,8 +30,8 @@ Problems
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-.. selectquestion:: account-ps-sq-tog-itcse
-   :fromid: Classes_Basic_Account_ac, Classes_Basic_Account_pp
+.. selectquestion:: account-ps-sq-tog-itcse-v2
+   :fromid: Classes_Basic_Account_ac_v2, Classes_Basic_Account_pp_v2
    :toggle: lock
    :points: 10
 
@@ -41,8 +41,8 @@ Problems
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-.. selectquestion:: fortune-ps-sq-tog-itcse
-   :fromid: Classes_Basic_FortuneTeller_ac, Classes_Basic_FortuneTeller_pp
+.. selectquestion:: fortune-ps-sq-tog-itcse-v2
+   :fromid: Classes_Basic_FortuneTeller_ac_v2, Classes_Basic_FortuneTeller_pp_v2
    :toggle: lock
    :points: 10
 
