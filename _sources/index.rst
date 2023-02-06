@@ -28,7 +28,7 @@ The parts are:
 
 - Introduction to Problem Types - Materials to get you familiar with the types of problems in this study
 - Introduction to Classes - Learn how to create a class, method, and objects
-- Pre Survey - Questions about your confidence and experince
+- Pre Survey - Questions about your confidence and experience
 - Practice - Practice problems
 - Post Test - Post test problems
 
