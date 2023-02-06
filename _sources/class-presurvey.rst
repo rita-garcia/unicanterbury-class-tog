@@ -121,19 +121,58 @@ Feedback
 
 What to do next
 ============================
-.. raw:: html
-
-    <p>Click on the following link to learn how to solve different types of problems in this ebook : <b><a id="class-intro"><font size="+2">Introduction to Problem Types</font></a></b></p>
 
 .. raw:: html
 
-    <script type="text/javascript" >
+    <p>Click on the following link to go the practice problems: <a id="class-practice"><font size="+2">Practice Problems</font></a></p>
 
-      window.onload = function() {
+.. raw:: html
 
-        a = document.getElementById("class-intro")
-        a.href = "class-intro.html"
+   <script type="text/javascript">
 
-      };
+     function getCookie(cname) {
+        let name = cname + "=";
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let ca = decodedCookie.split(';');
+        for(let i = 0; i <ca.length; i++) {
+           let c = ca[i];
+           while (c.charAt(0) == ' ') {
+              c = c.substring(1);
+           }
+           if (c.indexOf(name) == 0) {
+              return c.substring(name.length, c.length);
+           }
+        }
+        return "";
+     }
 
-    </script>
+     function setCookie(cname, cvalue) {
+        document.cookie = cname + "=" + cvalue + ";";
+     }
+
+     window.onload = function() {
+
+        a = document.getElementById("class-practice")
+
+        // get prev set cookie
+        var EXP_COOKIE = 'class-tog-help-or-no'
+        var cond = getCookie(EXP_COOKIE);
+
+        // if no prev set cookie: generate random condition and set cookie
+        if (cond != 'wh' && cond != 'nh') {
+           var v = Math.floor(Math.random() * 2);
+           if (v < 1) {
+               cond = 'wh';
+           } else {
+               cond = 'nh';
+           }
+           setCookie(EXP_COOKIE, cond);
+        }
+
+        if (cond == 'wh') {
+           a.href = "class-toggle.html"
+        } else if (cond == 'nh') {
+           a.href = "class-write.html"
+        }
+     };
+   </script>

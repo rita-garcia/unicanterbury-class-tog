@@ -18,6 +18,9 @@ Problems
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
+.. shortanswer:: toggle-sa-pr-cls-1-itcse
+
+    Please explain your rating above or explain why you didn't use the Parsons problem.
 
 .. selectquestion:: cat-ps-sq-tog-itcse-v2
    :fromid: Classes_Basic_Cat_ac_v2, Classes_Basic_Cat_pp_v2
@@ -29,6 +32,9 @@ Problems
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
+.. shortanswer:: toggle-sa-pr-cls-2-itcse
+
+    Please explain your rating above or explain why you didn't use the Parsons problem.
 
 .. selectquestion:: account-ps-sq-tog-itcse-v2
    :fromid: Classes_Basic_Account_ac_v2, Classes_Basic_Account_pp_v2
@@ -41,6 +47,10 @@ Problems
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
+.. shortanswer:: toggle-sa-pr-cls-3-itcse
+
+    Please explain your rating above or explain why you didn't use the Parsons problem.
+
 .. selectquestion:: fortune-ps-sq-tog-itcse-v2
    :fromid: Classes_Basic_FortuneTeller_ac_v2, Classes_Basic_FortuneTeller_pp_v2
    :toggle: lock
@@ -51,13 +61,10 @@ Problems
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
+.. shortanswer:: toggle-sa-pr-cls-4-itcse
 
-Feedback on the Helpfulness of Parsosn Problems
-==================================================
+    Please explain your rating above or explain why you didn't use the Parsons problem.
 
-.. shortanswer:: toggle-sa-cls-itcse
-
-    Please explain the option you chose above in more detail. Please skip this question if you didn't use any Parsons problems.
 
 Feedback
 ============================

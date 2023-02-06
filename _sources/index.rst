@@ -26,9 +26,9 @@ If you have quesitons about this study please email Dr. Barbara Ericson at barba
 
 The parts are:
 
-- Pre Survey - Questions about your experience and confidence in computing
 - Introduction to Problem Types - Materials to get you familiar with the types of problems in this study
 - Introduction to Classes - Learn how to create a class, method, and objects
+- Pre Survey - Questions about your confidence and experince
 - Practice - Practice problems
 - Post Test - Post test problems
 
@@ -36,9 +36,10 @@ Click on the link at the end of each page to get to the next part.
 
 What to do next
 ============================
+
 .. raw:: html
 
-    <p>Click on the following link to take the pre survey : <b><a id="class-survey"> <font size="+2">Pre Survey</font></a></b></p>
+    <p>Click on the following link to learn how to solve different types of problems in this ebook : <b><a id="class-intro"><font size="+2">Introduction to Problem Types</font></a></b></p>
 
 .. raw:: html
 
@@ -46,8 +47,9 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("class-survey")
-        a.href = "class-presurvey.html"
+        a = document.getElementById("class-intro")
+        a.href = "class-intro.html"
+
       };
 
     </script>
