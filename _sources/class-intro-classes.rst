@@ -28,17 +28,17 @@ A Book Class
             return "title: " + self.title + " author: " + self.author
 
     def main():
-         # calls the __init__ method
-         b2 = Book("A Wrinkle in Time", "M. L'Engle")
+        # calls the __init__ method
+        b2 = Book("A Wrinkle in Time", "M. L'Engle")
 
-         # calls the __str__ method
-         print(b2)
+        # calls the __str__ method
+        print(b2)
 
-         # calls the __init__ method
-         b1 = Book("Goodnight Moon", "Margaret Wise Brown")
+        # calls the __init__ method
+        b1 = Book("Goodnight Moon", "Margaret Wise Brown")
 
-          # calls the __str__ method
-         print(b1)
+        # calls the __str__ method
+        print(b1)
 
     main()
 
@@ -51,7 +51,7 @@ Once you have defined a class you can use it to create many objects.
 .. activecode:: class_person_ac2
     :caption: A class to represent a Person
 
-    Change the following main function to add a person object with your first and last name.
+    Change the following main function to add a new person object.
     ~~~~
     class Person:
         """ Represents a person object """
@@ -72,6 +72,10 @@ Once you have defined a class you can use it to create many objects.
         # calls the __str__ method
         print(p1)
 
+        # create an object for another person (calls the __init__ method)
+
+        # print the new object (calls the __str__ method)
+
     main()
 
 Add a Method to a Class
@@ -83,7 +87,7 @@ doesn't need to have any underscores in it.  It only needs to start and end with
 underscores if it is a special method like ``__init__`` or ``__str__``.  It does need to take
 the current object which is by convention referred to as ``self``.
 
-.. activecode:: class_person_init_ac1
+.. activecode:: class_person_init_ac1_v2
     :caption: A class to represent a Person
 
     The following Person class has an ``initials`` method that returns
@@ -103,7 +107,7 @@ the current object which is by convention referred to as ``self``.
             return self.first + " " + self.last
 
         # returns the first characters of the first and last name in lowercase
-        def inititals(self):
+        def initials(self):
             return self.first[0].lower() + self.last[0].lower()
 
     def main():
