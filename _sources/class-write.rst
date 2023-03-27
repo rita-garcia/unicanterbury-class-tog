@@ -16,6 +16,10 @@ Problems
    :fromid: Classes_Basic_Cat_ac
    :points: 10
 
+.. selectquestion:: fl-book-ps-sq-write-itcse
+   :fromid: Classes_Basic_Book_ac
+   :points: 10
+
 .. selectquestion:: fl-account-ps-sq-write-itcse
    :fromid: Classes_Basic_Account_ac
    :points: 10

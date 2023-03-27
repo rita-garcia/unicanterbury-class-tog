@@ -13,12 +13,12 @@ Problems
    :toggle: lock
    :points: 10
 
-.. poll:: toggle-poll-cls-1-itcse
+.. poll:: toggle-poll-cls-song-itcse
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
-.. shortanswer:: toggle-sa-pr-cls-1-itcse
+.. shortanswer:: toggle-sa-pr-cls-song-itcse
 
     Please explain your rating above or explain why you didn't use the Parsons problem.
 
@@ -27,12 +27,26 @@ Problems
    :toggle: lock
    :points: 10
 
-.. poll:: toggle-poll-cls-2-itcse
+.. poll:: toggle-poll-cls-cat-itcse
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
-.. shortanswer:: toggle-sa-pr-cls-2-itcse
+.. shortanswer:: toggle-sa-pr-cls-cat-itcse
+
+    Please explain your rating above or explain why you didn't use the Parsons problem.
+
+.. selectquestion:: class-book-pwd-sq
+   :fromid: Classes_Basic_Book_ac, Classes_Basic_Book_wd_pp_v3
+   :toggle: lock
+   :points: 10
+
+.. poll:: toggle-poll-cls-book-itcse
+    :scale: 9
+
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
+
+.. shortanswer:: toggle-sa-pr-cls-book-itcse
 
     Please explain your rating above or explain why you didn't use the Parsons problem.
 
@@ -41,13 +55,13 @@ Problems
    :toggle: lock
    :points: 10
 
-.. poll:: toggle-poll-cls-3-itcse
+.. poll:: toggle-poll-cls-account-itcse
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-.. shortanswer:: toggle-sa-pr-cls-3-itcse
+.. shortanswer:: toggle-sa-pr-cls-account-itcse
 
     Please explain your rating above or explain why you didn't use the Parsons problem.
 
@@ -56,12 +70,12 @@ Problems
    :toggle: lock
    :points: 10
 
-.. poll:: toggle-poll-cls-4-itcse
+.. poll:: toggle-poll-cls-fortune-itcse
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
-.. shortanswer:: toggle-sa-pr-cls-4-itcse
+.. shortanswer:: toggle-sa-pr-cls-fortune-itcse
 
     Please explain your rating above or explain why you didn't use the Parsons problem.
 

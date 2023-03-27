@@ -11,6 +11,10 @@ Problems
    :fromid: Classes_Basic_Movie_fix_v3_ac
    :points: 10
 
+.. selectquestion:: class-post-rect-sq-itcse
+   :fromid: Classes_Basic_Rectangle_ac_fix_v2
+   :points: 10
+
 .. selectquestion:: class-post-2-Horse-sq-itcse
    :fromid: Classes_Basic_Horse_v2_ac
    :points: 10

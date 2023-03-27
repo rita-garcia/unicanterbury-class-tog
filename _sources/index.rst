@@ -16,7 +16,7 @@ Writing Classes
 SECTION 1: Introduction
 :::::::::::::::::::::::
 
-This study has five parts.  It will take approximately 60 minutes to complete
+This study has five parts.  It will take approximately 75 minutes to complete
 the study.  Please do the parts in order and answer questions to the best
 of your ablity without any outside help. You can skip any question that you
 do not feel qualifed to answer or stop working on a question after you have worked on it for
