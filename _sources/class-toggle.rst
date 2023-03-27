@@ -36,7 +36,7 @@ Problems
 
     Please explain your rating above or explain why you didn't use the Parsons problem.
 
-.. selectquestion:: class-book-pwd-sq
+.. selectquestion:: class-book-ps-sq-tog-iticse
    :fromid: Classes_Basic_Book_ac, Classes_Basic_Book_wd_pp_v3
    :toggle: lock
    :points: 10
