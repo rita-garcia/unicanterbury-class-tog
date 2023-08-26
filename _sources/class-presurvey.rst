@@ -5,6 +5,16 @@ Think about **yourself and your learning** when answering the following question
 
 ==============
 
+.. poll:: p3-consent
+    :option_1: I consent
+
+    By clicking this checkbox, I am agreeing to participate in this study.
+
+.. poll:: p3-consent-copy-research
+    :option_1: Please send me copy of the research
+
+    You may request a copy of any research from this project to be sent to you.
+
 .. poll:: CS-self-efficacy-1-cls-itcse
     :option_1: Strongly disagree
     :option_2: Disagree
