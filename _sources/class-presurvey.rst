@@ -11,7 +11,7 @@ Think about **yourself and your learning** when answering the following question
     Please view the consent information at LINK. By clicking this checkbox, after reading the consent information I agree to participate in this research project.
 
 .. poll:: p3-consent-copy-research
-    :option_1: Please send me copy of the research
+    :option_1: Send me copy 
 
     I would like a summary of the results of the project presented in a conference or journal proceedings (I understand that my contact details for this will not be linked to my survey responses).
 
