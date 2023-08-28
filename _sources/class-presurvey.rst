@@ -8,7 +8,7 @@ Think about **yourself and your learning** when answering the following question
 .. poll:: p3-consent
     :option_1: I agree
 
-    Please view the consent information at LINK. By clicking this checkbox, after reading the consent information I agree to participate in this research project.
+    Please view the <a href="https://www.dropbox.com/scl/fi/jn4ab5538kjk27tuhd8c2/AppendixA_UC_StudentConsentForm.docx.pdf?rlkey=0epdx92c2e350hdimxlr9znf0&dl=0">consent information</a>. By clicking this checkbox, after reading the consent information I agree to participate in this research project.
 
 .. poll:: p3-consent-copy-research
     :option_1: Send me a copy 
